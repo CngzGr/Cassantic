@@ -1,0 +1,5 @@
+c:\users\cengi\documents\visual studio 2012\Projects\Cassantic\Cassantic.Service.Web\bin\Debug\Cassantic.Service.Web.dll
+c:\users\cengi\documents\visual studio 2012\Projects\Cassantic\Cassantic.Service.Web\bin\Debug\Cassantic.Service.Web.pdb
+c:\users\cengi\documents\visual studio 2012\Projects\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.dll
+c:\users\cengi\documents\visual studio 2012\Projects\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.pdb
+C:\Users\cengi\Documents\Visual Studio 2012\Projects\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.csprojResolveAssemblyReference.cache
