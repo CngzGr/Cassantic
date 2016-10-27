@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassantic", "Cassantic\Cassantic.csproj", "{21F2248D-E4E6-4229-9D9A-5054BB566677}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassantic.Tests", "Cassantic.Tests\Cassantic.Tests.csproj", "{87A75475-18E1-4D75-8674-B0D1D2F68AEB}"
@@ -14,6 +16,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassantic.Builder", "Cassantic.Builder\Cassantic.Builder.csproj", "{1DD27CCA-A5FB-4877-851D-9B4E87942B38}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassantic.Service.Web", "Cassantic.Service.Web\Cassantic.Service.Web.csproj", "{356B5336-B4F3-4588-9A4F-A1A56951F379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassantic.Web", "Cassantic.Web\Cassantic.Web.csproj", "{ADCF1AB2-38AC-4D99-8155-18665D852E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassantic.Web.Tests", "Cassantic.Web.Tests\Cassantic.Web.Tests.csproj", "{12FDAA39-835A-44DB-9586-EC7FFB960C2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +55,14 @@ Global
 		{356B5336-B4F3-4588-9A4F-A1A56951F379}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{356B5336-B4F3-4588-9A4F-A1A56951F379}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{356B5336-B4F3-4588-9A4F-A1A56951F379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCF1AB2-38AC-4D99-8155-18665D852E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCF1AB2-38AC-4D99-8155-18665D852E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCF1AB2-38AC-4D99-8155-18665D852E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCF1AB2-38AC-4D99-8155-18665D852E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FDAA39-835A-44DB-9586-EC7FFB960C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FDAA39-835A-44DB-9586-EC7FFB960C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FDAA39-835A-44DB-9586-EC7FFB960C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FDAA39-835A-44DB-9586-EC7FFB960C2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
