@@ -3,3 +3,8 @@ c:\users\cengi\documents\visual studio 2012\Projects\Cassantic\Cassantic.Service
 c:\users\cengi\documents\visual studio 2012\Projects\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.dll
 c:\users\cengi\documents\visual studio 2012\Projects\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.pdb
 C:\Users\cengi\Documents\Visual Studio 2012\Projects\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.csprojResolveAssemblyReference.cache
+E:\GitProject\Cassantic\Cassantic.Service.Web\bin\Debug\Cassantic.Service.Web.dll
+E:\GitProject\Cassantic\Cassantic.Service.Web\bin\Debug\Cassantic.Service.Web.pdb
+E:\GitProject\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.csprojResolveAssemblyReference.cache
+E:\GitProject\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.dll
+E:\GitProject\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.pdb

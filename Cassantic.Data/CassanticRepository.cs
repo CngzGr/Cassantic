@@ -22,6 +22,23 @@ namespace Cassantic.Data
                 return _Entites; }
            
         }
+
+        public IQueryable<T> Table
+        {
+            get
+            {
+               return    this.Entites;
+            }
+        }
+
+        public IQueryable<T> TableNotTracking
+        {
+            get
+            {
+                return this.Entites.AsNoTracking<T>();
+            }
+        }
+
         public CassanticRepository(IDbContext _Context)
         {
             this.Context = _Context;

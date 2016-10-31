@@ -60,3 +60,15 @@ E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\System.Net.Http.Formatting
 E:\GitProject\Cassantic\Cassantic.Web.Tests\obj\Debug\Cassantic.Web.Tests.csprojResolveAssemblyReference.cache
 E:\GitProject\Cassantic\Cassantic.Web.Tests\obj\Debug\Cassantic.Web.Tests.dll
 E:\GitProject\Cassantic\Cassantic.Web.Tests\obj\Debug\Cassantic.Web.Tests.pdb
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Autofac.Integration.WebApi.dll
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Cassantic.Core.dll
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Autofac.dll
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Cassandra.dll
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\ServiceStack.Interfaces.dll
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\LZ4.dll
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Autofac.Integration.WebApi.xml
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Cassantic.Core.pdb
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Autofac.xml
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Cassandra.xml
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Autofac.Integration.Mvc.xml

@@ -23,3 +23,40 @@ C:\Users\cengi\Documents\Visual Studio 2012\Projects\Cassantic\Cassantic.Data\bi
 C:\Users\cengi\Documents\Visual Studio 2012\Projects\Cassantic\Cassantic.Data\bin\Debug\Autofac.xml
 C:\Users\cengi\Documents\Visual Studio 2012\Projects\Cassantic\Cassantic.Data\bin\Debug\Autofac.Integration.Mvc.xml
 C:\Users\cengi\Documents\Visual Studio 2012\Projects\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._27102016.resources
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Cassantic.Data.dll.config
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Cassantic.Data.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Cassantic.Data.pdb
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Cassantic.Core.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\EntityFramework.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Autofac.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Cassandra.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\ServiceStack.Interfaces.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Autofac.Integration.Mvc.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.Mvc.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\LZ4.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.Razor.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.WebPages.Razor.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.WebPages.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Cassantic.Core.pdb
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\EntityFramework.xml
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Autofac.xml
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Cassandra.xml
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Autofac.Integration.Mvc.xml
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.Mvc.xml
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.Razor.xml
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.WebPages.Razor.xml
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.WebPages.xml
+E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.csprojResolveAssemblyReference.cache
+E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations.InitialCreate.resources
+E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations.InitialCreate1.resources
+E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._23102016.resources
+E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._27102016.resources
+E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.csproj.GenerateResource.Cache
+E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.dll
+E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.pdb

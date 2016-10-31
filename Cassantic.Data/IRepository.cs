@@ -14,5 +14,7 @@ namespace Cassantic.Data
         void Delete(T item);
         void Delete(int Id);
         T FindById(int Id);
+        IQueryable<T> Table { get;}
+        IQueryable<T> TableNotTracking { get; }
     }
 }

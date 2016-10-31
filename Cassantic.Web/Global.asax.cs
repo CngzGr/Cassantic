@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Autofac.Integration.WebApi;
+using Cassantic.Core.Infrastructure;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -13,11 +15,14 @@ namespace Cassantic.Web
     {
         protected void Application_Start()
         {
+            EngineManager.Initialize();
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            var webApiResolver = new AutofacWebApiDependencyResolver(EngineManager.Current.ContainerManaer.Container);
+            GlobalConfiguration.Configuration.DependencyResolver = webApiResolver;
         }
     }
 }

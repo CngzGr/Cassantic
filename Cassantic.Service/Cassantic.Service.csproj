@@ -39,6 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Account\AccountService.cs" />
+    <Compile Include="Account\IAccountService.cs" />
     <Compile Include="Common\IConsumer.cs" />
     <Compile Include="Common\ISubscriptionService.cs" />
     <Compile Include="Common\SubscriptionService.cs" />
