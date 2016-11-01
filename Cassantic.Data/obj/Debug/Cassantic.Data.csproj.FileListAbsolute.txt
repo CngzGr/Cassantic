@@ -47,7 +47,6 @@ E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Autofac.xml
 E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Cassandra.xml
 E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Autofac.Integration.Mvc.xml
 E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.Mvc.xml
-E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\Microsoft.Web.Infrastructure.xml
 E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.Razor.xml
 E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.WebPages.Razor.xml
 E:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.WebPages.xml
@@ -60,3 +59,5 @@ E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._2710
 E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.csproj.GenerateResource.Cache
 E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.dll
 E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.pdb
+E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._1112016.resources
+E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._11120162.resources

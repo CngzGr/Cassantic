@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Cassantic.Data</RootNamespace>
     <AssemblyName>Cassantic.Data</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -58,6 +59,7 @@
     <Compile Include="Mapper\Activity\ActivityRateMap.cs" />
     <Compile Include="Mapper\Activity\ActivityTypeMap.cs" />
     <Compile Include="Mapper\Contact\ContactMap.cs" />
+    <Compile Include="Mapper\Contact\ContactRoleMap.cs" />
     <Compile Include="Mapper\Phone\PhoneMap.cs" />
     <Compile Include="Migrations\201610212111296_InitialCreate.cs" />
     <Compile Include="Migrations\201610212111296_InitialCreate.Designer.cs">
@@ -74,6 +76,14 @@
     <Compile Include="Migrations\201610262150454_27102016.cs" />
     <Compile Include="Migrations\201610262150454_27102016.Designer.cs">
       <DependentUpon>201610262150454_27102016.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201611012030090_1112016.cs" />
+    <Compile Include="Migrations\201611012030090_1112016.Designer.cs">
+      <DependentUpon>201611012030090_1112016.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201611012107295_11120162.cs" />
+    <Compile Include="Migrations\201611012107295_11120162.Designer.cs">
+      <DependentUpon>201611012107295_11120162.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -100,6 +110,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201610262150454_27102016.resx">
       <DependentUpon>201610262150454_27102016.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201611012030090_1112016.resx">
+      <DependentUpon>201611012030090_1112016.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201611012107295_11120162.resx">
+      <DependentUpon>201611012107295_11120162.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

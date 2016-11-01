@@ -5,7 +5,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Autofac.Integration.Mvc;
-using Autofac.Integration.WebApi;
 using System.Web.Mvc;
 
 namespace Cassantic.Core.Infrastructure

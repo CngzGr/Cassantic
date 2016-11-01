@@ -15,7 +15,7 @@ namespace Cassantic.Core.Infrastructure
     public class TypeFinder : ITypeFinder
     {
 
-        private string assemblySkipLoadingPattern = "^System|^mscorlib|^Microsoft|^CppCodeProvider|^VJSharpCodeProvider|^WebDev|^Castle|^Iesi|^log4net|^NHibernate|^nunit|^TestDriven|^MbUnit|^Rhino|^QuickGraph|^TestFu|^Telerik|^ComponentArt|^MvcContrib|^AjaxControlToolkit|^Antlr3|^Remotion|^Recaptcha|^FiftyOne|^Google|^DotNetOpenAuth|^FluentValidation|^Autofac|^AutoMapper|^EntityFramework|^WebMatrix|^WebGrease|^Newtonsoft";
+        private string assemblySkipLoadingPattern = "^System|^mscorlib|^Microsoft|^CppCodeProvider|^VJSharpCodeProvider|^WebDev|^Castle|^Iesi|^log4net|^NHibernate|^nunit|^TestDriven|^MbUnit|^Rhino|^QuickGraph|^TestFu|^Telerik|^ComponentArt|^MvcContrib|^AjaxControlToolkit|^Antlr3|^Remotion|^Recaptcha|^FiftyOne|^Google|^DotNetOpenAuth|^FluentValidation|^Autofac|^AutoMapper|^EntityFramework|^WebMatrix|^WebGrease|^Newtonsoft|^ServiceStack|^LZ4|^Cassandra|^Analyzers|^StackExchange|^Owin";
 
         private string assemblyRestrictToLoadingPattern = ".*";
 

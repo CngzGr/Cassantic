@@ -42,7 +42,6 @@ E:\GitProject\Cassantic\Cassantic.Service\bin\Debug\Cassandra.xml
 E:\GitProject\Cassantic\Cassantic.Service\bin\Debug\Autofac.Integration.Mvc.xml
 E:\GitProject\Cassantic\Cassantic.Service\bin\Debug\System.Web.Mvc.xml
 E:\GitProject\Cassantic\Cassantic.Service\bin\Debug\EntityFramework.xml
-E:\GitProject\Cassantic\Cassantic.Service\bin\Debug\Microsoft.Web.Infrastructure.xml
 E:\GitProject\Cassantic\Cassantic.Service\bin\Debug\System.Web.Razor.xml
 E:\GitProject\Cassantic\Cassantic.Service\bin\Debug\System.Web.WebPages.Razor.xml
 E:\GitProject\Cassantic\Cassantic.Service\bin\Debug\System.Web.WebPages.xml

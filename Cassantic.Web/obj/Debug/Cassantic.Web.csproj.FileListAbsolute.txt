@@ -88,7 +88,6 @@ E:\GitProject\Cassantic\Cassantic.Web\obj\Debug\Cassantic.Web.dll
 E:\GitProject\Cassantic\Cassantic.Web\obj\Debug\Cassantic.Web.pdb
 E:\GitProject\Cassantic\Cassantic.Web\bin\Autofac.dll
 E:\GitProject\Cassantic\Cassantic.Web\bin\Autofac.Integration.Mvc.dll
-E:\GitProject\Cassantic\Cassantic.Web\bin\Autofac.Integration.WebApi.dll
 E:\GitProject\Cassantic\Cassantic.Web\bin\Cassantic.Builder.dll
 E:\GitProject\Cassantic\Cassantic.Web\bin\Cassantic.Core.dll
 E:\GitProject\Cassantic\Cassantic.Web\bin\Cassantic.Service.Web.dll
@@ -104,7 +103,6 @@ E:\GitProject\Cassantic\Cassantic.Web\bin\Cassantic.Core.pdb
 E:\GitProject\Cassantic\Cassantic.Web\bin\Cassantic.Service.Web.pdb
 E:\GitProject\Cassantic\Cassantic.Web\bin\Autofac.xml
 E:\GitProject\Cassantic\Cassantic.Web\bin\Autofac.Integration.Mvc.xml
-E:\GitProject\Cassantic\Cassantic.Web\bin\Autofac.Integration.WebApi.xml
 E:\GitProject\Cassantic\Cassantic.Web\bin\Cassandra.xml
 E:\GitProject\Cassantic\Cassantic.Web\bin\Cassantic.Data.pdb
 E:\GitProject\Cassantic\Cassantic.Web\bin\Cassantic.Service.pdb

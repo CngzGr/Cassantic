@@ -27,7 +27,6 @@ E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\Cassantic.Core.dll
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\Cassantic.Core.pdb
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\Autofac.dll
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\Autofac.Integration.Mvc.dll
-E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\Autofac.Integration.WebApi.dll
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\Cassandra.dll
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\LZ4.dll
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\ServiceStack.Common.dll
@@ -45,7 +44,6 @@ E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\System.Web.WebPages.dll
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\System.Web.WebPages.Deployment.dll
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\Autofac.xml
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\Autofac.Integration.Mvc.xml
-E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\Autofac.Integration.WebApi.xml
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\Cassandra.xml
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\ServiceStack.Common.xml
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\ServiceStack.Redis.xml
@@ -53,7 +51,6 @@ E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\ServiceStack.Text.xml
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\StackExchange.Redis.xml
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\System.Web.Http.xml
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\System.Web.Mvc.xml
-E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\Microsoft.Web.Infrastructure.xml
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\System.Net.Http.Formatting.xml
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\System.Web.Razor.xml
 E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\System.Web.WebPages.Razor.xml
@@ -62,3 +59,5 @@ E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\System.Web.WebPages.Deployment.
 E:\GitProject\Cassantic\Cassantic.Core\obj\Debug\Cassantic.Core.csprojResolveAssemblyReference.cache
 E:\GitProject\Cassantic\Cassantic.Core\obj\Debug\Cassantic.Core.dll
 E:\GitProject\Cassantic\Cassantic.Core\obj\Debug\Cassantic.Core.pdb
+E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\System.Web.Helpers.dll
+E:\GitProject\Cassantic\Cassantic.Core\bin\Debug\System.Web.Helpers.xml

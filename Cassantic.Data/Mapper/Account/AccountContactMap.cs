@@ -16,6 +16,7 @@ namespace Cassantic.Data.Mapper
            this.HasKey(p => p.Id);
            this.HasRequired(p => p.Contact).WithMany(p => p.Accounts).WillCascadeOnDelete(true);
            this.HasRequired(p => p.Account).WithMany(p => p.Contacts).WillCascadeOnDelete(true);
-       }
+           this.HasRequired(p => p.ContactRole).WithMany(p => p.Contacts).WillCascadeOnDelete(true);
+        }
     }
 }

@@ -37,7 +37,6 @@ E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Cassantic.Builder.dll
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Cassantic.Builder.pdb
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Autofac.dll
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Autofac.Integration.Mvc.dll
-E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Autofac.Integration.WebApi.dll
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Cassandra.dll
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Cassantic.Core.dll
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Cassantic.Data.dll
@@ -63,7 +62,6 @@ E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Cassantic.Data.pdb
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Cassantic.Service.pdb
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Autofac.xml
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Autofac.Integration.Mvc.xml
-E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Autofac.Integration.WebApi.xml
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Cassandra.xml
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\EntityFramework.xml
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\EntityFramework.SqlServer.xml
@@ -73,7 +71,6 @@ E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\ServiceStack.Text.xml
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\StackExchange.Redis.xml
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\System.Web.Http.xml
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\System.Web.Mvc.xml
-E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\Microsoft.Web.Infrastructure.xml
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\System.Net.Http.Formatting.xml
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\System.Web.Razor.xml
 E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\System.Web.WebPages.Razor.xml
@@ -82,3 +79,5 @@ E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\System.Web.WebPages.Deployme
 E:\GitProject\Cassantic\Cassantic.Builder\obj\Debug\Cassantic.Builder.csprojResolveAssemblyReference.cache
 E:\GitProject\Cassantic\Cassantic.Builder\obj\Debug\Cassantic.Builder.dll
 E:\GitProject\Cassantic\Cassantic.Builder\obj\Debug\Cassantic.Builder.pdb
+E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\System.Web.Helpers.dll
+E:\GitProject\Cassantic\Cassantic.Builder\bin\Debug\System.Web.Helpers.xml
