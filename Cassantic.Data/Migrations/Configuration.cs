@@ -1,7 +1,10 @@
 namespace Cassantic.Data.Migrations
 {
     using System;
+    using System.Collections.Concurrent;
+    using System.Data.Common;
     using System.Data.Entity;
+    using System.Data.Entity.Infrastructure.Interception;
     using System.Data.Entity.Migrations;
     using System.Linq;
 
@@ -29,4 +32,7 @@ namespace Cassantic.Data.Migrations
             //
         }
     }
+
+
+
 }

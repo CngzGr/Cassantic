@@ -67,9 +67,14 @@ namespace Cassantic.Data
             this.Entites.Remove(item);
         }
 
-        public virtual T FindById(int Id)
+        public virtual T  FindById(int Id)
         {
-            return this.Entites.Find(Id);
+            return this.Entites.FirstOrDefault(p=>p.Id==Id);
+        }
+
+        public virtual async Task<T> FindByIdAsync(int Id)
+        {
+            return await this.Entites.FirstOrDefaultAsync(p => p.Id == Id);
         }
     }
 }

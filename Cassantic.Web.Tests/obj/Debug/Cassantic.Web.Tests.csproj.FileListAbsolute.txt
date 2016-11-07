@@ -30,9 +30,7 @@ E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Owin.dll
-E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\System.Web.Http.dll
-E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\EntityFramework.dll
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
@@ -50,9 +48,7 @@ E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\System.Web.Optimization.xm
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
-E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\System.Web.Http.xml
-E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\EntityFramework.xml
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
@@ -74,3 +70,7 @@ E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Cassantic.Service.dll
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Cassantic.Data.dll
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Cassantic.Service.pdb
 E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Cassantic.Data.pdb
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\GitProject\Cassantic\Cassantic.Web.Tests\bin\Debug\Microsoft.Owin.Security.Google.xml

@@ -61,3 +61,5 @@ E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.dll
 E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.pdb
 E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._1112016.resources
 E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._11120162.resources
+E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._07112016.resources
+E:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._0711201v2.resources
