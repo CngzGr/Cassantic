@@ -19,6 +19,9 @@ using ServiceStack.Redis;
 using Cassantic.Core.Infrastructure;
 using Cassantic.Service.Common;
 using System.Web;
+using Cassantic.Service.Interceptors;
+using Castle.DynamicProxy;
+using Autofac.Extras.DynamicProxy;
 
 namespace Cassantic.Builder
 {
@@ -29,20 +32,23 @@ namespace Cassantic.Builder
             var  types= typeFinder.GetAssembly().ToArray();
          
             builder.RegisterControllers(types);
-            builder.Register<IDbContext>(c=> new CassanticContext()).InstancePerHttpRequest();
-            builder.RegisterGeneric(typeof(CassanticRepository<>)).As(typeof(IRepository<>)).InstancePerHttpRequest();
+            builder.Register<IDbContext>(c=> new CassanticContext()).AsSelf();
+            builder.RegisterGeneric(typeof(CassanticRepository<>)).As(typeof(IRepository<>));
+
             #region Redis and Cassandra Register
             Cluster cluster = Cluster.Builder().AddContactPoint("127.0.0.1").Build();
             MappingConfiguration.Global.Define<CassanticMapper>();
             builder.Register(c => cluster.Connect("cassantic")).As<ISession>();
             builder.Register(x => new CassandraCacheManager(x.Resolve<ISession>())).As<ICacheManager>().InstancePerDependency();
-            builder.Register<IRedisClientsManager>(c => new PooledRedisClientManager("127.0.0.1:32768")).InstancePerLifetimeScope();
+            builder.Register<IRedisClientsManager>(c => new PooledRedisClientManager("127.0.0.1:32768")).AsSelf();
             #endregion
 
-            builder.RegisterType<RedisCacheManager>().As<ICacheManager>().Named<ICacheManager>("redis.cached").InstancePerHttpRequest();
-            builder.RegisterType<CassandraCacheManager>().As<ICacheManager>().Named<ICacheManager>("cassandra.cached").InstancePerHttpRequest();
-            builder.RegisterType<AccountService>().As<IAccountService>().InstancePerHttpRequest();
+            builder.RegisterType<RedisCacheManager>().As<ICacheManager>().Named<ICacheManager>("redis.cached").AsSelf();
+            builder.RegisterType<CassandraCacheManager>().As<ICacheManager>().Named<ICacheManager>("cassandra.cached").AsSelf();
+            builder.RegisterType<AccountService>().As<IAccountService>().EnableInterfaceInterceptors().InterceptedBy(typeof(LogService));
+
             var consumers = typeFinder.FindClassesOfType(typeof(IConsumer<>)).ToList();
+
             foreach (var item in consumers)
             {
                 builder.RegisterType(item).As(item.FindInterfaces((type, criteria) =>
@@ -53,7 +59,13 @@ namespace Cassantic.Builder
                 }, typeof(IConsumer<>)));
 
             }
-            
+
+            #region Aspect
+
+            builder.RegisterType<LogService>().Named<IInterceptor>("log-calls");
+           
+            #endregion
+
         }
 
     }

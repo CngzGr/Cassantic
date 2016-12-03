@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Cassantic.Core;
 using Cassantic.Core.Domains;
 using Cassantic.Data;
+using Autofac.Extras.DynamicProxy;
 
 namespace Cassantic.Service
 {
@@ -34,6 +35,7 @@ namespace Cassantic.Service
             return this._accountRepository.FindById(Id);
         }
 
+     
         public void Insert(Account item)
         {
             this._accountRepository.Insert(item);

@@ -15,7 +15,7 @@ namespace Cassantic.Data
     {
         public CassanticContext()
         {
-            Database.SetInitializer<CassanticContext>(null);
+            //Database.SetInitializer<CassanticContext>(null);
         }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

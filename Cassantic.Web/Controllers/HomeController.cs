@@ -20,6 +20,8 @@ namespace Cassantic.Web.Controllers
         {
             var item= _accountService.GetByID(1);
 
+            _accountService.Insert(new Core.Domains.Account() { Name = "Cengiz Gür" });
+
             return View();
         }
 
