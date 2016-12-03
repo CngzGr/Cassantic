@@ -20,7 +20,7 @@ namespace Cassantic.Service.Interceptors
                 foreach (var item in invocation.Arguments)
                 {
                     var entity = item as IBaseEntity;
-
+                    var arg = invocation.Arguments.FirstOrDefault();
                 }
                 scope.Complete();
 
