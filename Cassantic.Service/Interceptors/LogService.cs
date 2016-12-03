@@ -21,6 +21,7 @@ namespace Cassantic.Service.Interceptors
                 {
                     var entity = item as IBaseEntity;
 
+
                 }
                 scope.Complete();
 
