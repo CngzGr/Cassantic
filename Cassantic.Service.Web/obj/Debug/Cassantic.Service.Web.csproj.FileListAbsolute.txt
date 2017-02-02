@@ -8,3 +8,8 @@ E:\GitProject\Cassantic\Cassantic.Service.Web\bin\Debug\Cassantic.Service.Web.pd
 E:\GitProject\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.csprojResolveAssemblyReference.cache
 E:\GitProject\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.dll
 E:\GitProject\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.pdb
+D:\GitProject\Cassantic\Cassantic.Service.Web\bin\Debug\Cassantic.Service.Web.dll
+D:\GitProject\Cassantic\Cassantic.Service.Web\bin\Debug\Cassantic.Service.Web.pdb
+D:\GitProject\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.csprojResolveAssemblyReference.cache
+D:\GitProject\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.dll
+D:\GitProject\Cassantic\Cassantic.Service.Web\obj\Debug\Cassantic.Service.Web.pdb

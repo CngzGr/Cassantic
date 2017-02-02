@@ -62,38 +62,6 @@
     <Compile Include="Mapper\Contact\ContactMap.cs" />
     <Compile Include="Mapper\Contact\ContactRoleMap.cs" />
     <Compile Include="Mapper\Phone\PhoneMap.cs" />
-    <Compile Include="Migrations\201610212111296_InitialCreate.cs" />
-    <Compile Include="Migrations\201610212111296_InitialCreate.Designer.cs">
-      <DependentUpon>201610212111296_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201610222029221_InitialCreate1.cs" />
-    <Compile Include="Migrations\201610222029221_InitialCreate1.Designer.cs">
-      <DependentUpon>201610222029221_InitialCreate1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201610231705393_23102016.cs" />
-    <Compile Include="Migrations\201610231705393_23102016.Designer.cs">
-      <DependentUpon>201610231705393_23102016.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201610262150454_27102016.cs" />
-    <Compile Include="Migrations\201610262150454_27102016.Designer.cs">
-      <DependentUpon>201610262150454_27102016.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201611012030090_1112016.cs" />
-    <Compile Include="Migrations\201611012030090_1112016.Designer.cs">
-      <DependentUpon>201611012030090_1112016.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201611012107295_11120162.cs" />
-    <Compile Include="Migrations\201611012107295_11120162.Designer.cs">
-      <DependentUpon>201611012107295_11120162.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201611071907291_07112016.cs" />
-    <Compile Include="Migrations\201611071907291_07112016.Designer.cs">
-      <DependentUpon>201611071907291_07112016.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201611071917166_0711201v2.cs" />
-    <Compile Include="Migrations\201611071917166_0711201v2.Designer.cs">
-      <DependentUpon>201611071917166_0711201v2.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -106,32 +74,6 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201610212111296_InitialCreate.resx">
-      <DependentUpon>201610212111296_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201610222029221_InitialCreate1.resx">
-      <DependentUpon>201610222029221_InitialCreate1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201610231705393_23102016.resx">
-      <DependentUpon>201610231705393_23102016.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201610262150454_27102016.resx">
-      <DependentUpon>201610262150454_27102016.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201611012030090_1112016.resx">
-      <DependentUpon>201611012030090_1112016.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201611012107295_11120162.resx">
-      <DependentUpon>201611012107295_11120162.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201611071907291_07112016.resx">
-      <DependentUpon>201611071907291_07112016.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201611071917166_0711201v2.resx">
-      <DependentUpon>201611071917166_0711201v2.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

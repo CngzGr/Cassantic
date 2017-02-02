@@ -19,6 +19,7 @@ namespace Cassantic.Data
         }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+
             modelBuilder.Conventions.Remove<PluralizingEntitySetNameConvention>();
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
             modelBuilder.Conventions.Remove<PrimaryKeyNameForeignKeyDiscoveryConvention>();

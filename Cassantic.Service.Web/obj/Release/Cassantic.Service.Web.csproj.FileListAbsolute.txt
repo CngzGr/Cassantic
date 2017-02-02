@@ -1,0 +1,4 @@
+D:\GitProject\Cassantic\Cassantic.Service.Web\bin\Release\Cassantic.Service.Web.dll
+D:\GitProject\Cassantic\Cassantic.Service.Web\bin\Release\Cassantic.Service.Web.pdb
+D:\GitProject\Cassantic\Cassantic.Service.Web\obj\Release\Cassantic.Service.Web.dll
+D:\GitProject\Cassantic\Cassantic.Service.Web\obj\Release\Cassantic.Service.Web.pdb

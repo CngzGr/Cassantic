@@ -92,14 +92,5 @@ D:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.WebPages.Razor.xml
 D:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.WebPages.xml
 D:\GitProject\Cassantic\Cassantic.Data\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.csprojResolveAssemblyReference.cache
-D:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations.InitialCreate.resources
-D:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations.InitialCreate1.resources
-D:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._23102016.resources
-D:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._27102016.resources
-D:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._1112016.resources
-D:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._11120162.resources
-D:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._07112016.resources
-D:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.Migrations._0711201v2.resources
-D:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.csproj.GenerateResource.Cache
 D:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.dll
 D:\GitProject\Cassantic\Cassantic.Data\obj\Debug\Cassantic.Data.pdb
